@@ -1,0 +1,16 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo \"No build step required\"",
+    "test": "echo \"No tests specified\""
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "node-cache": "^5.1.2",
+    "redis": "^4.7.0"
+  }
+}
